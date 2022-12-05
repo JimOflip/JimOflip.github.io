@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body {
+    font-family: 'Anton', sans-serif;
+}
+
+.title {
+    display: flex;
+    font-size: 10rem;
+    columns: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+
+}
+
+.calculatrice {
+    display: flex;
+    justify-content: center;
+}
+
+.butonHide {
+    display: flex;
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.delire{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
